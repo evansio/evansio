@@ -4,9 +4,10 @@
 
 Desarrollador en ciencia de datos con competencias para el análisis de datos de las compañías a través de Python, SQL, PostgreSQL, GitHub, Wordpress, HTML y CSS. Desde las cuales genero soluciones para que los usuarios de las empresas tengan acceso de manera fácil y práctica a la información solicitada. Caracterizado por trabajar bien en equipo, manejar comunicación asertiva y gestionar efectivamente el tiempo.
 
-Habilidades: VUE JS / REACT / JS / HTML / CSS
+Habilidades: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 🔭 Estoy trabajando en Aduimport Agentes Aduanales 
+- 🌱 Estoy aprendiendo Python 
 - 📫 Cómo contactarme: edgarortega1991@gmail.com 
 
 
