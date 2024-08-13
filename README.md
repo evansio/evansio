@@ -1,11 +1,10 @@
 ### Hola 👋, me llamo Edgar Ortega 
 #### **Desarrollador en Ciencia de Datos**
-![**Desarrollador en Ciencia de Datos**](https://mundooptimo.com/wp-content/uploads/2024/08/Banner-Edgar-Ortega.jpg)
+![**Desarrollador en Ciencia de Datos**](https://drive.google.com/file/d/1P685R33JGVnPcEAVDWi6qXcttyh4mDpG/view?usp=drive_link)
 
 Desarrollador en ciencia de datos con competencias para el análisis de datos de las compañías a través de Python, SQL, PostgreSQL, GitHub, Wordpress, HTML y CSS. Desde las cuales genero soluciones para que los usuarios de las empresas tengan acceso de manera fácil y práctica a la información solicitada. Caracterizado por trabajar bien en equipo, manejar comunicación asertiva y gestionar efectivamente el tiempo.
 
-Habilidades: ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
+Habilidades: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 Estoy trabajando en Aduimport Agentes Aduanales 
 - 📫 Cómo contactarme: edgarortega1991@gmail.com 
