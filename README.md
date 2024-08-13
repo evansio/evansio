@@ -1,6 +1,6 @@
 ### Hola 👋, me llamo Edgar Ortega 
 #### **Desarrollador en Ciencia de Datos**
-![**Desarrollador en Ciencia de Datos**][https://drive.google.com/file/d/1P685R33JGVnPcEAVDWi6qXcttyh4mDpG/view?usp=sharing](https://mundooptimo.com/wp-content/uploads/2024/08/Banner-Edgar-Ortega.jpg)
+![**Desarrollador en Ciencia de Datos**](https://mundooptimo.com/wp-content/uploads/2024/08/Banner-Edgar-Ortega.jpg)
 
 Desarrollador en ciencia de datos con competencias para el análisis de datos de las compañías a través de Python, SQL, PostgreSQL, GitHub, Wordpress, HTML y CSS. Desde las cuales genero soluciones para que los usuarios de las empresas tengan acceso de manera fácil y práctica a la información solicitada. Caracterizado por trabajar bien en equipo, manejar comunicación asertiva y gestionar efectivamente el tiempo.
 
