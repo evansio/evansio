@@ -1,7 +1,7 @@
 ### Hola 👋, me llamo Edgar Ortega 
 #### **Desarrollador en Ciencia de Datos**
 ![**Desarrollador en Ciencia de Datos**]<img src="img_port/Crear tarea.jpg" alt="Banner" width="700"/>
-![Alt Text](![image](https://github.com/user-attachments/assets/5b745f3c-2ef9-4d3c-96fe-3a475015e1d5)
+![Alt Text](![image]([https://github.com/user-attachments/assets/5b745f3c-2ef9-4d3c-96fe-3a475015e1d5](https://upload.wikimedia.org/wikipedia/commons/6/6e/Harry_Potter_wordmark.svg))
 )
 
 Desarrollador en ciencia de datos con competencias para el análisis de datos de las compañías a través de Python, SQL, PostgreSQL, GitHub, Wordpress, HTML y CSS. Desde las cuales genero soluciones para que los usuarios de las empresas tengan acceso de manera fácil y práctica a la información solicitada. Caracterizado por trabajar bien en equipo, manejar comunicación asertiva y gestionar efectivamente el tiempo.
