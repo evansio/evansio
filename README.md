@@ -1,4 +1,4 @@
-![**Desarrollador en Ciencia de Datos**](https://raw.githubusercontent.com/evansio/ToDo-Apps/main/img_port/Banner%20Edgar%20Ortega.jpg)
+![**Desarrollador en Ciencia de Datos**](https://github.com/evansio/TO-DO-APP-DJANGO/blob/main/capturas/Banner%20Edgar%20Ortega%20(1).jpg?raw=true)
 ### Hola 👋, me llamo Edgar Ortega 
 #### **Desarrollador en Ciencia de Datos**
 
