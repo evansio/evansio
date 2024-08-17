@@ -1,6 +1,6 @@
 ### Hola 👋, me llamo Edgar Ortega 
 #### **Desarrollador en Ciencia de Datos**
-![**Desarrollador en Ciencia de Datos**](https://previews.dropbox.com/p/thumb/ACXSsFOI04L4IBh6hhLlYMvt-v1W00eExbPpg01S-FE2ehmFwEj7CWDlti2QnnJkJ932mhk1Z1UFJHxRmeFH0dCqd7sDxh0dVMkeNZjpYQF6_-nre5Gt7RQ7n2Vy-5XKCO3u9FDoCn0PrVHxK97RFcEvYC1wGd-augFqBSOGpV4VHeboYjl6vka2FKph9yzNeojQVgycYaCZLXKu9tF2IX9p6IUyHidNm4rlLUj_6KuhXFFtlbwIduCHl-LQ_RL7IGjsvQAvOAKnVNLIBX7ByUniMPu7mLU3dmwxQsLKDkoZ3509e2matQ79kdwCIgLI-rYTj3Vu0Y6hGYPweE0DqCot1E7hYRP21ARtkRWNn-uAZw/p.jpeg)
+![**Desarrollador en Ciencia de Datos**](https://raw.githubusercontent.com/evansio/ToDo-Apps/main/img_port/Banner%20Edgar%20Ortega.jpg)
 
 Desarrollador en ciencia de datos con competencias para el análisis de datos de las compañías a través de Python, SQL, PostgreSQL, GitHub, Wordpress, HTML y CSS. Desde las cuales genero soluciones para que los usuarios de las empresas tengan acceso de manera fácil y práctica a la información solicitada. Caracterizado por trabajar bien en equipo, manejar comunicación asertiva y gestionar efectivamente el tiempo.
 
